@@ -1,5 +1,12 @@
 <h2 align="left">Hi there, I'm Khalil! 👋</h2>
 
+## 🙋‍♂️ About me
+
+![profile view count](https://komarev.com/ghpvc/?username=khalil002)
+
+
+
+
 ###
 
 <p align="left">I'm a software engineer and I'm currently learning graphics and cryptography</p>
