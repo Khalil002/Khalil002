@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Khalil El Hage Kassem
+## Hi there 👋, my name is Khalil
 
 ## 🙋‍♂️ About me
 
