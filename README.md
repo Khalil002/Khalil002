@@ -34,14 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Khalil002/Khalil002/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">Social media</p>
 
 ###
