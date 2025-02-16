@@ -4,16 +4,14 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=khalil002)
 
-
-
-
 ###
 
 <p align="left">I'm a software engineer and I'm currently learning graphics and cryptography</p>
 
 ###
 
-<h3 align="left">Tecnology stack</h3>
+## 🔭 Tecnology stack
+
 
 ###
 
@@ -41,17 +39,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
 </div>
 
-<h3 align="left">Social media</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/khalil002/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="kek.barid.01@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
 
 ###
