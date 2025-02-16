@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, I'm Khalil! 👋</h2>
+## Hi there 👋, my name is Khalil El Hage Kassem
 
 ## 🙋‍♂️ About me
 
