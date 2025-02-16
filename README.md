@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Tecnology stack</p>
+<h3 align="left">Tecnology stack</h3>
 
 ###
 
@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
 </div>
 
-<p align="left">Social media</p>
+<h3 align="left">Social media</h3>
 
 ###
 
