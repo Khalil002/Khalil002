@@ -1,7 +1,5 @@
 ## Hi there 👋, my name is Khalil
 
-## 🙋‍♂️ About me
-
 ![profile view count](https://komarev.com/ghpvc/?username=khalil002)
 
 ###
