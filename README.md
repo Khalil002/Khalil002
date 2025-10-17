@@ -16,8 +16,6 @@
   <p> 
     I'm really into cybersecurity, machine learning, and embedded systems. I like digging into how things work under the hood-whether that's protecting systems, training models, or working with hardware.
   </p>
-
-  <p> 
-    ![profile view count](https://komarev.com/ghpvc/?username=khalil002)
-  </p>
+  
+  ![profile view count](https://komarev.com/ghpvc/?username=khalil002)
 </div>
