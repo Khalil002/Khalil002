@@ -1,41 +1,15 @@
-## Hi there 👋, my name is Khalil
+<h3 align="center">👋 Hi there, I'm Khalil</h3>
 
-![profile view count](https://komarev.com/ghpvc/?username=khalil002)
+<p align="center">
+  <a href="https://www.giftegwuenu.dev">Portfolio</a> •
+  <a href="https://linkedin.com/in/egwuenugift">LinkedIn</a>
+</p>
 
-###
+---
+I’m a Computer Scientist who enjoys building practical solutions and learning new tools along the way. I like clean code, experimenting with ideas, and collaborating on projects that make an impact. Always improving, always curious.
 
-<p align="left">I'm a software engineer and I'm currently learning graphics and cryptography</p>
+I’m really into cybersecurity, machine learning, and embedded systems. I like digging into how things work under the hood—whether that’s protecting systems, training models, or working with hardware.
+---
 
-###
-
-## 🔭 Tecnology stack
-
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-</div>
-
-
-###
+- 📫 Reach me through [email](mailto:hello@thegiftcode.dev)
+- ![profile view count](https://komarev.com/ghpvc/?username=khalil002)
