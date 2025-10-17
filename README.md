@@ -3,7 +3,6 @@
   
   <p>
     <a href="mailto:kek.barid.01@gmail.com">Email</a> •
-    <a href="https://www.linkedin.com/in/khalil002/">Portfolio</a> •
     <a href="https://www.linkedin.com/in/khalil002/">LinkedIn</a>
   </p>
 </div>
