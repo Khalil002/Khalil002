@@ -9,7 +9,7 @@
 
 <div align="justify">
   <p>
-    I'm a Software Developer who enjoys building practical solutions and learning new tools along the way. I like clean code, experimenting with ideas, and collaborating on projects that make an impact. Always improving, always curious. 
+    I'm a Software Engineer who enjoys building practical solutions and learning new tools along the way. I like clean code, experimenting with ideas, and collaborating on projects that make an impact. Always improving, always curious. 
   </p>
   
   ![profile view count](https://komarev.com/ghpvc/?username=khalil002)
