@@ -2,7 +2,7 @@
   <h3>👋 Hi there, I'm Khalil</h3>
   
   <p>
-    <a href="mailto:khalil.elhage@mail.polimi.it">Email</a> •
+    <a href="mailto:khalil.codes.dev@gmail.com">Email</a> •
     <a href="https://www.linkedin.com/in/khalil002/">LinkedIn</a>
   </p>
 </div>
