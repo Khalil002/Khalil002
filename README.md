@@ -4,6 +4,7 @@
   <p>
     <a href="mailto:khalil.codes.dev@gmail.com">Email</a> •
     <a href="https://www.linkedin.com/in/khalil002/">LinkedIn</a>
+    <a href="https://portfolio.khalilcodes.com/">Portfolio</a>
   </p>
 </div>
 
